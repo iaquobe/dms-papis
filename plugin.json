@@ -1,18 +1,17 @@
 {
-  "id": "emojiLauncher",
-  "name": "Emoji & Unicode Launcher",
-  "description": "Search and copy emojis and unicode characters",
-  "version": "1.7.3",
+  "id": "papisLauncher",
+  "name": "Papis Launcher",
+  "description": "Search and open documents from your papis library",
+  "version": "2.0.0",
   "author": "devnullvoid",
-  "icon": "emoji_emotions",
+  "icon": "description",
   "type": "launcher",
   "capabilities": [
-    "emoji-search",
-    "unicode-search"
+    "papis-search"
   ],
-  "component": "./EmojiLauncher.qml",
-  "settings": "./EmojiLauncherSettings.qml",
-  "trigger": ":e",
+  "component": "./PapisLauncher.qml",
+  "settings": "./PapisLauncherSettings.qml",
+  "trigger": ":p",
   "permissions": [
     "settings_read",
     "settings_write"

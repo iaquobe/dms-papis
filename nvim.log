@@ -1,0 +1,84 @@
+WRN 2026-11-13T12:35:58.872 ui.60      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:35:58.872 ui.60      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:35:58.872 ui.60      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:35:58.872 ui.60      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:35:58.872 ui.60      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:35:58.873 ?.61       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.61.0
+WRN 2026-11-13T12:38:56.370 ui.64      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:38:56.370 ui.64      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:38:56.370 ui.64      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:38:56.370 ui.64      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:38:56.370 ui.64      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:38:56.372 ?.65       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.65.0
+WRN 2026-11-13T12:40:33.217 ui.61      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:40:33.217 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:40:33.217 ui.61      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:40:33.217 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:40:33.217 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:40:33.219 ?.62       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.62.0
+WRN 2026-11-13T12:42:16.089 ui.61      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:42:16.089 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:42:16.089 ui.61      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:42:16.089 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:42:16.089 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:42:16.091 ?.62       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.62.0
+WRN 2026-11-13T12:43:47.871 ui.61      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:43:47.871 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:43:47.871 ui.61      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:43:47.871 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:43:47.871 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:43:47.873 ?.62       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.62.0
+WRN 2026-11-13T12:45:50.020 ui.61      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:45:50.021 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:45:50.021 ui.61      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:45:50.021 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:45:50.021 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:45:50.022 ?.62       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.62.0
+WRN 2026-11-13T12:47:38.640 ui.59      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:47:38.640 ui.59      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:47:38.640 ui.59      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:47:38.640 ui.59      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:47:38.640 ui.59      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:47:38.641 ?.60       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.60.0
+WRN 2026-11-13T12:54:26.075 ui.60      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:54:26.075 ui.60      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:54:26.075 ui.60      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:54:26.075 ui.60      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:54:26.075 ui.60      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:54:26.077 ?.61       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.61.0
+WRN 2026-11-13T12:59:10.493 ui.62      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T12:59:10.493 ui.62      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T12:59:10.493 ui.62      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T12:59:10.493 ui.62      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T12:59:10.493 ui.62      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T12:59:10.494 ?.63       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.63.0
+WRN 2026-11-13T13:01:06.145 ui.61      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T13:01:06.145 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T13:01:06.145 ui.61      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T13:01:06.145 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T13:01:06.145 ui.61      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T13:01:06.147 ?.62       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.62.0
+WRN 2026-11-13T13:12:24.235 ui.62      tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T13:12:24.235 ui.62      tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T13:12:24.235 ui.62      tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T13:12:24.236 ui.62      tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T13:12:24.236 ui.62      tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T13:12:24.237 ?.63       server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.63.0
+WRN 2026-11-13T13:14:46.088 ui.2       tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T13:14:46.088 ui.2       tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T13:14:46.088 ui.2       tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T13:14:46.088 ui.2       tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T13:14:46.088 ui.2       tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T13:14:46.092 ?.3        server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.3.0
+WRN 2026-11-13T13:15:02.347 ui.3       tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T13:15:02.347 ui.3       tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T13:15:02.347 ui.3       tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T13:15:02.347 ui.3       tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T13:15:02.347 ui.3       tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T13:15:02.350 ?.4        server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.4.0
+WRN 2026-11-13T13:23:38.021 ui.2       tui_handle_term_mode:226: TUI: terminal mode 69 unavailable, state 0
+WRN 2026-11-13T13:23:38.021 ui.2       tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-11-13T13:23:38.021 ui.2       tui_handle_term_mode:226: TUI: terminal mode 2027 unavailable, state 0
+WRN 2026-11-13T13:23:38.021 ui.2       tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-11-13T13:23:38.021 ui.2       tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-11-13T13:23:38.024 ?.3        server_start:197: Failed to start server: operation not permitted: /run/user/1000/nvim.3.0
